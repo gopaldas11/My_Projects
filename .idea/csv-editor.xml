@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\Pandas projects of day 25\002 weather-data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\Pandas projects of day 25\Central-Park-Squirrel-Census-Squirrel-Data-2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\Pandas projects of day 25\Fur Color and Count.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\Pandas projects of day 25\dict to csv test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\Pandas projects of day 25\dict to csv.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\USA Name guessing Game\50_states.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\USA Name guessing Game\states_to_learn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\USA Name guessing Game\unguessed_sta te.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\USA Name guessing Game\unguessed_state.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\100 Days of Code\Day_25 Pandas Libray and USA Game\USA Name guessing Game\unguessed_states.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
