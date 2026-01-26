@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\100 Days of Code\Day_26 list and Dictionary comprehension and NATO game\NATO-alphabet-start\nato_phonetic_alphabet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
