@@ -52,6 +52,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\DATA Projects\Day 9th of 365DataAnalyst\Lending-Company-Numeric-Data-NAN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DATA Projects\Day 9th of 365DataAnalyst\Lending-Company-Numeric-Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DATA Projects\Day 9th of 365DataAnalyst\Lending-company.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
