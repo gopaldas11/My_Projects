@@ -66,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\DATA Projects\Day 9th of 365DataAnalyst\Lending-Company-Saving.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\DATA Projects\Day 9th of 365DataAnalyst\Lending-company.csv">
           <value>
             <Attribute>
