@@ -87,6 +87,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\DATA Projects\Pandas Seris\Location.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
